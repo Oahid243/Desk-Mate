@@ -1,0 +1,2 @@
+# Desk-Mate
+Desk mate is Embedded system based project based on Arduino platform. Desk mate is a device that fits in a corner of your table and reminds your daily tasks. You can set your daily routine, to-do list, reminders and you will never forget any of them. It is also equiped with AC device controller so it can make a coffee for you in the morning automatically. It is controlled by an Android smartphon with the custom made Desk Mate app. 
